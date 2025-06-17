@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|c:\\users\\mkh09\\vscodeprojects\\exam\\exampaper\\exampaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|solutionrelative:exampaper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|c:\\users\\mkh09\\vscodeprojects\\exam\\exampaper\\exampaper\\objectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|solutionrelative:exampaper\\objectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|c:\\users\\mkh09\\vscodeprojects\\exam\\exampaper\\exampaper\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|solutionrelative:exampaper\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|c:\\users\\mkh09\\vscodeprojects\\exam\\exampaper\\exampaper\\iobjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|solutionrelative:exampaper\\iobjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|c:\\users\\mkh09\\vscodeprojects\\exam\\exampaper\\exampaper\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EF0EF-AAF6-4A5E-816D-CEC1209A18BF}|ExamPaper\\ExamPaper.csproj|solutionrelative:exampaper\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\ObjectService.cs",
+              "RelativeDocumentMoniker": "ExamPaper\\ObjectService.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\ObjectService.cs",
+              "RelativeToolTip": "ExamPaper\\ObjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:00:41.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\ObjectRepo.cs",
+              "RelativeDocumentMoniker": "ExamPaper\\ObjectRepo.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\ObjectRepo.cs",
+              "RelativeToolTip": "ExamPaper\\ObjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:49:13.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Object.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\Object.cs",
+              "RelativeDocumentMoniker": "ExamPaper\\Object.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\Object.cs",
+              "RelativeToolTip": "ExamPaper\\Object.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:49:03.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\IObjectRepo.cs",
+              "RelativeDocumentMoniker": "ExamPaper\\IObjectRepo.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\IObjectRepo.cs",
+              "RelativeToolTip": "ExamPaper\\IObjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:48:54.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPaper\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Exam\\ExamPaper\\ExamPaper\\Program.cs",
+              "RelativeToolTip": "ExamPaper\\Program.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwCIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:30:46.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
